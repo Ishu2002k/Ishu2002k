@@ -25,7 +25,7 @@
 - Generated population datasets using **CTGAN + Iterative Proportional Fitting**.  
 - Achieved a synthesis error of **MAE = 13.51**.  
 
-### 📝 [Gender Stereotype Detection in Text](https://github.com/your-username/gender-stereotype-detection)  
+### 📝 [Gender Stereotype Detection in Text](https://github.com/Ishu2002k/Sentiment_Analysis)  
 - Applied **Random Forest, XGBoost, FLAN-T5, and LLAMA** models.  
 - Fine-tuned LLAMA with **QLoRA adapters** → **91% accuracy** (5-fold CV).  
 
