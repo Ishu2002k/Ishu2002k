@@ -69,8 +69,8 @@
 
 ## 📊 GitHub Stats  
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishu2002k&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishu2002k&layout=compact&theme=radical)  
 
 ---
 
